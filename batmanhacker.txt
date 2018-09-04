@@ -1,0 +1,13 @@
+/bin/bash
+
+echo @ 'Helooo uuuorrd !';
+GOTO 1
+
+var $thayrine 
+if ($thayrine == false) {
+	echo @ 'voce foi haskiado sua mascara de rede é: 255.255.255.0';
+}
+
+else{
+	echo @ '$thayrine';
+}
